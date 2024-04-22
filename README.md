@@ -1,7 +1,7 @@
 # Benvingut al meu perfil de GitHub!
 
 ## Sobre mi
-Hola! Sóc [el teu nom]. Apassionat per la programació i l'aprenentatge constant.
+Hola! Sóc Daniel García López. Apassionat per la programació i l'aprenentatge constant.
 
 ## Projectes Destacats
 1. **Projecte X:** Breu descripció del projecte X.
